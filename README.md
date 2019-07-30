@@ -1,1 +1,1 @@
-# FunnyJokes
+# Generate Jokes
