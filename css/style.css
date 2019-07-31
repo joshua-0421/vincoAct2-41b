@@ -7,22 +7,22 @@
 }
 
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: rgba(0, 0, 0, .7)
 }
 
 header{
     font-family: 'Pacifico', cursive;
-    background: #6a24a7;
+    background: #28ad50;
    
     color: white;
     padding: 8px 20px;
 }
 
 .bg-gradient{
-    background: #DA22FF;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #9733EE, #DA22FF);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #9733EE, #DA22FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #28ad50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, rgb(40, 37, 214), rgb(98, 255, 7));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, rgb(40, 37, 214), rgb(40, 37, 214)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .container{
